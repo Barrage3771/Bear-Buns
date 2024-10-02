@@ -1,1 +1,3 @@
 This is one of the first games I have ever made, especially with pygame through VS Code. I of course did not create this on my own, I had a lot of help through the book Python Crash Course by Erich Matthes. Once you download and unzip and have it in a folder, make sure you make a folder called "images" and place both of the bitmap images in that folder so when running the code it pulls it from the correct location. Other than that you will have to go into the actual code and change the location of the images. Just want to help trouble shoot. Other than that THANK YOU FOR PLAYING!!! -Bear
+
+You can use the dont use code that I left in here to switch the game to full screen instead of having it in a 1200,800 pixel sized window!
